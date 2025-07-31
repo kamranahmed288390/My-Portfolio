@@ -116,7 +116,6 @@ body {
     margin: -3px 0;
 }
 
-/* ✅ Responsive layout for mobile screens */
 @media (max-width: 768px) {
     .name-with-image {
         flex-direction: column;
