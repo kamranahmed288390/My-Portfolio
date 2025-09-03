@@ -122,8 +122,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 **Kamran Ahmed**
 *   **GitHub:** [kamranahmed288390](https://github.com/kamranahmed288390)
-*   **LinkedIn:** (Add your LinkedIn profile link here)
-*   **Email:** (Add your professional email here)
 
----
-*This README was generated and updated based on your project description and code.*
+
