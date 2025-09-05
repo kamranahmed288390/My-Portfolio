@@ -1,126 +1,114 @@
 # 🌐 My-Portfolio
 
-This is a personal portfolio website built using HTML, CSS, and JavaScript. It serves as a showcase for my projects, skills, and contact information, presented in a clean, modern, and responsive design. The goal is to create an engaging platform that effectively highlights my capabilities as a Full Stack Developer.
+This is my personal portfolio website built using **HTML**, **CSS**, and **JavaScript**. It serves as a showcase for my projects, skills, and contact information, presented in a clean, modern, and responsive design. The goal is to create an engaging platform that highlights my capabilities as a **Full Stack Developer**.
 
 ## 🚀 Live Demo
 
-*   **Coming Soon!** I'm currently working on deploying this portfolio live on GitHub Pages or Netlify. Stay tuned for the link!
+* **Coming Soon!** Deployment in progress via **GitHub Pages** or **Netlify**.
 
 ## ✨ Features
 
-*   **Responsive Design:** Optimized for seamless viewing across various devices (desktops, tablets, mobile phones).
-*   **Fixed Header:** A persistent navigation bar for easy access to different sections.
-*   **Dynamic Text:** Engaging animated text in the hero section using Typed.js.
-*   **About Section:** Detailed introduction with a professional profile image.
-*   **Services Section:** Highlights key services and skills.
-*   **Interactive Elements:** Hover effects, smooth transitions, and subtle animations enhance user experience.
-*   **Social Media Links:** Easy access to my professional social profiles.
+* **Responsive Design:** Works smoothly across desktops, tablets, and mobile devices.
+* **Fixed Header Navigation:** Easy access to all sections.
+* **Dynamic Typing Effect:** Animated role description powered by **Typed.js**.
+* **Hero Section with Image:** Prominent introduction with professional profile image.
+* **About Section:** Personal background, skills, and career summary.
+* **Services Section:** Highlights core services and expertise.
+* **Skills Section:** Showcases both **Technical** and **Professional** skills with progress indicators.
+* **Interactive Animations:** Hover effects, smooth transitions, and animated elements.
+* **Social Links:** Quick access to social media platforms.
 
 ## 💻 Tech Stack
 
-*   **HTML5:** For structuring the content of the web pages.
-*   **CSS3:** For styling and layout, including responsive design and animations.
-*   **JavaScript (Vanilla):** For interactive elements and dynamic content.
-*   **Typed.js:** A JavaScript library for creating typing animations in the hero section.
-*   **Boxicons:** For scalable vector icons.
+* **HTML5:** Semantic and accessible structure.
+* **CSS3:** Responsive layouts, animations, and modern styling.
+* **JavaScript (Vanilla):** Interactive and dynamic elements.
+* **Typed.js:** Typing animation in the hero section.
+* **Boxicons:** Scalable vector icons.
 
 ## 📅 Development Progress
 
-This section logs the key milestones and updates during the development of this portfolio.
-
 ### ✅ Day 1 – Base Setup
 
-*   Created base `index.html` file.
-*   Added fixed header with a navigation bar.
-*   Linked external CSS (`stylesheet.css`) and JS (`main.js`) files.
-*   Implemented basic homepage layout with name and role.
-*   Added hover effects to navbar links for better interactivity.
+* Created base `index.html`.
+* Fixed header with navigation bar.
+* Linked `stylesheet.css` and `main.js`.
+* Added homepage layout and hover effects.
 
-### ✅ Day 2 – Intermediate Progress
+### ✅ Day 2 – Layout & Responsiveness
 
-*   Implemented full-width responsive layout for the main sections.
-*   Added profile picture to the home section, aligned to the right.
-*   Improved layout responsiveness using CSS media queries.
-*   Enhanced visual styling with shadows, borders, and improved spacing.
-*   Organized `home-content` using Flexbox for flexible arrangement.
-*   Polished typography and spacing across the page.
-*   Maintained full compatibility across various screen sizes.
-*   `README` file updated with initial project structure and progress.
+* Full-width responsive layout for sections.
+* Added profile picture and flexbox-based content.
+* Styled typography, spacing, and responsiveness.
 
-### ✅ Day 3 – Current Progress
+### ✅ Day 3 – Animations & Improvements
 
-*   Fixed animation issue on the logo (`slideRight` animation).
-*   Verified all animations and transitions are working as expected throughout the site.
-*   Ensured consistency between navbar link hover effects and logo entrance animations.
-*   Optimized animation timing and easing for a smoother user experience.
-*   Improved mobile responsiveness of the layout, including image sizing in the home section.
-*   Integrated [Typed.js](https://typedjs.com/) for dynamic text in the header's role description.
-*   Cleaned and validated all HTML/CSS structure for better maintainability.
-*   Refined media queries for smoother transitions across different breakpoints.
+* Fixed logo animation.
+* Unified animations for smooth UX.
+* Integrated **Typed.js** for dynamic text.
+* Cleaned and validated HTML/CSS.
 
-### ✅ Day 4 – New Updates
+### ✅ Day 4 – Sections Added
 
-*   **Added About Section:** Implemented a dedicated "About Me" section complete with a profile image, an introductory heading, and a detailed personal description.
-*   **About Section Styling:** Styled the profile image within the About Section to be circular, with a prominent border and a glowing shadow, matching the aesthetic of the homepage profile image.
-*   **Background Consistency:** The background of the About Section was updated to match the Home Section, ensuring design consistency across major page elements.
-*   **Added Services Section:** Introduced a "My Services" section as a placeholder for future project showcases and skill highlights.
-*   **Improved Layout with CSS Grid:** Enhanced the layout of the About section using CSS Grid for better structure and responsiveness.
-*   **Header Background:** Updated the header background color for better visibility and to reinforce the site's color scheme.
-*   **Overall Responsiveness:** Continued to enhance overall responsiveness and styling consistency across all implemented sections.
+* **About Section:** Circular profile image, styled description.
+* **Services Section:** Placeholder for services.
+* **Consistent Backgrounds:** Matching design theme.
+* **CSS Grid:** Enhanced layout for About section.
+* **Header Update:** Improved background visibility.
+
+### ✅ Day 5 – Skills Section
+
+* **Technical Skills:** HTML, CSS, JavaScript, Python, React with progress bars.
+* **Professional Skills:** Creativity, Communication, Problem Solving, Teamwork using radial progress charts.
+* Enhanced section alignment with **Flexbox** and **Grid**.
 
 ## 🛠️ Installation & Setup
 
-To get a local copy up and running, follow these simple steps:
+1. **Clone the repository:**
 
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/kamranahmed288390/My-Portfolio.git
-    ```
-2.  **Navigate to the project directory:**
-    ```bash
-    cd My-Portfolio
-    ```
-3.  **Open `index.html`:**
-    Simply open the `index.html` file in your preferred web browser.
+   ```bash
+   git clone https://github.com/kamranahmed288390/My-Portfolio.git
+   ```
+2. **Navigate to the directory:**
+
+   ```bash
+   cd My-Portfolio
+   ```
+3. **Open the project:**
+   Simply open `index.html` in your browser.
 
 ## 💡 Usage
 
-This portfolio is designed to showcase my skills and projects.
-*   **Home:** Get a quick introduction.
-*   **About:** Learn more about my background and expertise.
-*   **Services:** See the types of services I offer.
-*   *Upcoming sections will include Skills, Portfolio, and Contact.*
+* **Home:** Introduction and quick overview.
+* **About:** Personal bio and career journey.
+* **Services:** Key offerings.
+* **Skills:** Technical and soft skills.
+* *Future sections: Portfolio & Contact form.*
 
 ## 📈 Upcoming Features
 
-*   **Full Skills Section:** A dedicated section to detail my technical proficiencies.
-*   **Full Projects/Portfolio Section:** Showcase various projects with descriptions and live links.
-*   **Contact Form with Validation:** A functional contact form for easy communication.
-*   **Scroll-based Animations and Effects:** Implement more dynamic visual effects as the user scrolls.
-*   **Navbar Toggle for Mobile View:** A hamburger menu for improved navigation on smaller screens.
-*   **Smooth CSS Transitions and Animations:** Further refine existing animations and add new ones.
-*   **Live Deployment:** Publish the site on GitHub Pages or Netlify.
+* **Portfolio Section:** Showcase of real projects with links.
+* **Contact Form with Validation:** Direct communication from visitors.
+* **Scroll Animations:** More engaging user experience.
+* **Mobile Navbar Toggle:** Hamburger menu for small screens.
+* **Deployment:** GitHub Pages / Netlify hosting.
 
 ## 🤝 Contributing
 
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are welcome! To contribute:
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1.  Fork the Project
-2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4.  Push to the Branch (`git push origin feature/AmazingFeature`)
-5.  Open a Pull Request
+1. Fork the repository.
+2. Create a feature branch (`git checkout -b feature/NewFeature`).
+3. Commit changes (`git commit -m 'Add new feature'`).
+4. Push to branch (`git push origin feature/NewFeature`).
+5. Open a Pull Request.
 
 ## 📄 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the **MIT License**. See `LICENSE` for details.
 
 ## 👨‍💻 Author
 
 **Kamran Ahmed**
-*   **GitHub:** [kamranahmed288390](https://github.com/kamranahmed288390)
 
-
+* **GitHub:** [kamranahmed288390](https://github.com/kamranahmed288390)
